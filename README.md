@@ -2,7 +2,7 @@
 githubacc:
 ----------
 geek.jitendra@gmail.com
-papuDAS@1990
+
 git revert:
 ----------
 git reset --hard HEAD~1--->revert the changes
