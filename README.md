@@ -1,8 +1,16 @@
-# git
+
 githubacc:
 ----------
 geek.jitendra@gmail.com
 
+push exsting repository from the command line
+-----------------------------------------------
+
+git remote add origin https://github.com/jitudas1990/spring-boot-DynamoDB.git
+
+git push -u origin master (If this command some error then run bleow command)
+
+git push -u origin master --force
 
 git revert:
 ----------
